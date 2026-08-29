@@ -1,4 +1,4 @@
-module github.com/angelofallars/gelo-db
+module github.com/angelofallars/gophersql
 
 go 1.27
 
